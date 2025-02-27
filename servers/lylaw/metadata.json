@@ -1,0 +1,34 @@
+{
+    "id": "lylaw",
+    "name": "Lylaw",
+    "website": "https://www.lylaw.fr",
+    "store": "https://www.lylaw.fr/shop",
+    "primaryColor": "#0D74D4",
+    "secondaryColor": "#69E6FF",
+    "primaryAddress": "lylaw.fr",
+    "addresses": [
+        "lylaw.fr",
+        "op-uhc.fr",
+        "nnt-uhc.fr"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "UHC",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "LylawMC",
+        "discord": "https://discord.gg/FKWZJcTwsU"
+    }
+}
